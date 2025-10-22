@@ -58,11 +58,11 @@
     <distributionManagement>
         <repository>
             <id>ayyappa</id>
-            <url>http://13.127.54.21:8080/repository/ayyappa/</url>
+            <url>http://13.235.134.172:8080/repository/ayyappa/</url>
         </repository>
         <snapshotRepository>
             <id>ayyappa</id>
-            <url>http://13.127.54.21:8080/repository/ayyappa/</url>
+            <url>http://13.235.134.172:8080/repository/ayyappa/</url>
         </snapshotRepository>
     </distributionManagement>
 
